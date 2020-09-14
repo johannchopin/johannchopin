@@ -1,4 +1,4 @@
-### Hi there, my name is Johann ➕✖️
+### Hi there, I'm Johann ➕✖️
 
 I'm a french 🇫🇷 enthusiast **Fullstack-developer** evolving in the JavaScript ecosystem. I like to [help peoples](https://stackoverflow.com/users/8583669/johannchopin), contribute to [projects](https://cv-johannchopin.web.app/projects) and learn new stuffs concerning Web technologies.
 
