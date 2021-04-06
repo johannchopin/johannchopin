@@ -2,7 +2,7 @@
 
 I'm a french 🇫🇷 enthusiast **Fullstack-developer** evolving in the JavaScript ecosystem. I like to [help peoples](https://stackoverflow.com/users/8583669/johannchopin), contribute to [projects](https://cv-johannchopin.web.app/projects) and learn new stuffs concerning Web technologies.
 
-Just take a look at my [portfolio](https://cv.johannchopin.fr/) if you want to learn more about me.
+Just take a look at my [portfolio](https://cv-johannchopin.web.app/) if you want to learn more about me.
 
 ----
 
