@@ -8,4 +8,5 @@ Just take a look at my [portfolio](https://cv-johannchopin.web.app/) if you want
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johannchopin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://stackoverflow.com/users/8583669/johannchopin"><img src="https://stackoverflow.com/users/flair/8583669.png?theme=dark" width="208" height="58" alt="profile for johannchopin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for johannchopin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/8583669?theme=dark)](https://stackoverflow.com/users/8583669/johannchopin)
