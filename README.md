@@ -9,7 +9,7 @@ Just take a look at my [portfolio](https://cv-johannchopin.web.app/) if you want
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johannchopin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/8583669?theme=dark)](https://johannchopin.github.io/stackoverflow-readme-profile)
+[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/8583669?theme=dark)](https://stackoverflow-readme-profile.vercel.app/)
 
 
 <a href="https://stackoverflow-readme-profile.vercel.app/tags-league/css/users/8583669">
